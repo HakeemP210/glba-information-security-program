@@ -19,7 +19,7 @@ The institution's service provider category applies to any contracted third part
 
 ### Selecting & retaining providers
 
-Before engaging a new provider, the institution documents a review of available security documentation (e.g., a SOC 2 report or equivalent, where one exists), confirms data handling practices align with applicable federal/state requirements, and considers the provider's known security incident history. For providers already in use before this process existed, that same review is done retroactively as part of the first annual reassessment rather than skipped.
+Before engaging a new provider, the institution confirms data handling practices align with applicable federal/state requirements, and considers the provider's known security incident history. For providers already in use before this process existed, that same review is done retroactively as part of the first annual reassessment rather than skipped.
 
 ### Requiring safeguards by contract
 

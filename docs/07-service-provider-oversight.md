@@ -4,7 +4,10 @@
 
 ## Requirement
 
-§314.4(f) requires the institution to oversee any third-party service provider that receives, maintains, processes, or otherwise accesses customer information on its behalf — by (1) taking reasonable steps to select and retain providers capable of maintaining appropriate safeguards, (2) requiring those safeguards by contract, and (3) periodically reassessing providers based on the risk they present.
+§314.4(f) requires the institution to oversee any third-party service provider that receives, maintains, processes, or otherwise accesses customer information on its behalf. This includes three key responsibilities:
+- Taking reasonable steps to select and retain providers capable of maintaining appropriate safeguards
+- Requiring those safeguards by contract
+- Periodically reassessing providers based on the risk they present
 
 ## Approach
 

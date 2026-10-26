@@ -8,7 +8,7 @@
 
 ## Approach
 
-Each annual report is checked line-by-item against all six required elements before it goes to ownership — not written freeform and hoped to be complete. Risk findings are stated in the same terms the risk register itself uses (the same risk IDs, the same High/Medium/Low ratings), rather than translated into a softer separate narrative that can drift from what the underlying data actually says.
+Each annual report is checked line-by-item against all six required elements before it goes to ownership. Risk findings are stated in the same terms the risk register itself uses (the same risk IDs, the same High/Medium/Low ratings), rather than translated into a simpler narrative that can drift from what the data actually says.
 
 ![Annual report header and section structure, with identifying details blurred](../images/board-reporting/annual-report-header.png)
 

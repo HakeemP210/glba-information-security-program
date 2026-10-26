@@ -1,4 +1,4 @@
-# GLBA Safeguards Rule Risk Assessment Program
+# GLBA Information Security Program
 
 ![Regulation](https://img.shields.io/badge/regulation-16%20CFR%20314-183A61)
 ![Framework](https://img.shields.io/badge/framework-NIST%20CSF%202.0-3765A0)

@@ -14,7 +14,7 @@ Each annual report is checked line-by-item against all six required elements bef
 
 ### An honest finding from reviewing a prior report
 
-Part of building this program included reviewing a prior year's annual report against the six-element checklist above, rather than assuming past practice was already complete. Well it wasn't. That report was missing an explicit "incidents-since-last-report" statement, concrete recommendations, and its narrative conclusion. A report of no significant weaknesses had been identified, which didn't actually match an elevated-risk item documented in its own attached risk assessment. Nobody had caught the mismatch because the narrative and the underlying data were never checked against each other directly.
+Part of building this program included reviewing a prior year's annual report against the six-element checklist above, rather than assuming past practice was already complete. Well it wasn't. That report was missing an explicit "incidents-since-last-report" statement and concrete recommendations. Its narrative conclusion, that no significant weaknesses had been identified, didn't actually match an elevated-risk item documented in its own attached risk assessment. Nobody had caught the mismatch because the narrative and the underlying data were never checked against each other directly.
 
 That's worth being upfront about rather than quietly fixing and moving on. This is the exact type of failure this program is designed to prevent: a document that claims everything is in order without sufficient evidence to support those claims.
 

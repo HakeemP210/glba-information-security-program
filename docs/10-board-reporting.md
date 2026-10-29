@@ -14,13 +14,13 @@ Each annual report is checked line-by-item against all six required elements bef
 
 ### An honest finding from reviewing a prior report
 
-Part of building this program included reviewing a prior year's annual report against the six-element checklist above, rather than assuming past practice was already complete. It wasn't: that report was missing an explicit incidents-since-last-report statement and concrete recommendations, and its narrative conclusion — that no significant weaknesses had been identified — didn't actually match an elevated-risk item documented in its own attached risk assessment. Nobody had caught the mismatch because the narrative and the underlying data were never checked against each other directly.
+Part of building this program included reviewing a prior year's annual report against the six-element checklist above, rather than assuming past practice was already complete. Well it wasn't. That report was missing an explicit "incidents-since-last-report" statement, concrete recommendations, and its narrative conclusion. A report of no significant weaknesses had been identified, which didn't actually match an elevated-risk item documented in its own attached risk assessment. Nobody had caught the mismatch because the narrative and the underlying data were never checked against each other directly.
 
-That's worth being upfront about rather than quietly fixing and moving on: it's the same failure mode this whole program is designed to prevent — a document that *says* things are fine without the underlying evidence actually supporting it — and catching it in your own prior work is a better test of the process than only ever catching it in someone else's.
+That's worth being upfront about rather than quietly fixing and moving on. This is the exact type of failure this program is designed to prevent: a document that claims everything is in order without sufficient evidence to support those claims.
 
 ## Why this matters
 
-A board report that always says "everything's fine" isn't oversight, it's noise — and a regulator or accreditor reviewing multiple years of reports will notice a pattern of unchanging, unsupported reassurance faster than they'll notice one honest year showing five open High-rated risks with owners and dates attached. The six required elements exist specifically so a governing body gets a complete picture, not a summary optimized to avoid hard questions.
+A board report that always says "everything's fine" isn't oversight, it's noise. A regulator or accreditor reviewing multiple years of reports will notice a pattern of unchanging, unsupported reassurance faster than they'll notice one honest year showing five open High-rated risks with owners and dates attached. The six required elements exist specifically so a governing body gets a complete picture, not a summary optimized to avoid hard questions.
 
 ## Related
 
